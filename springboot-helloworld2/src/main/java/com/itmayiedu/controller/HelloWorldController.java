@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class HelloWorldController {
 	@RequestMapping("/index")
 	public String index() {
-		return "success";
+		return "success111111111";
 	}
 
 	@RequestMapping("/getMap")
